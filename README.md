@@ -125,10 +125,6 @@ mail.Attachments.Add('caminho/para/arquivo.pdf')
 - O Outlook pode solicitar permissão na primeira execução
 - Certifique-se de ter uma conta configurada no Outlook
 
-## 🤝 Contribuições
-
-Sugestões e melhorias são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
 ## 📄 Licença
 
 Este projeto é de código aberto e está disponível para uso livre.
